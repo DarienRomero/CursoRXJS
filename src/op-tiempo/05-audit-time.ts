@@ -1,3 +1,4 @@
+//Es como el throtle pero este no emite el primer valor
 import { auditTime, fromEvent, map, tap } from "rxjs";
 
 const click$ = fromEvent<MouseEvent>(document, 'click');

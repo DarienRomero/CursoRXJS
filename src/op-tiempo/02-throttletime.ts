@@ -1,7 +1,7 @@
 //Emite de inmediato e ignora los siguientes valores
 //dentro de un intervalo de tiempo
 
-//Siempre emite el último valor
+//Siempre emite el último valor ignorado previamente (si trialing es true)
 //Inicio la cuenta desde la última emisión
 
 

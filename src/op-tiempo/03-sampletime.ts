@@ -1,4 +1,4 @@
-//Emite cada intervalo el último valor
+//Emite cada intervalo de tiempo el último valor
 //Si no se recibe nada en el intervalo, no se emite
 
 import { fromEvent, map, sampleTime } from "rxjs";
